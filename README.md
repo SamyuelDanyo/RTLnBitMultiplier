@@ -1,5 +1,5 @@
 # RTLnBitMultiplier
-Parameterised (8-bit ready) Multiplier SystemVerilog RTL Design with 1-Cycle Shift+Add
+Parameterised (8-bit ready) Multiplier with 1-Cycle Shift+Add SystemVerilog RTL Design
 
 Find the full documentation attached as PDF file.
 
