@@ -1,7 +1,7 @@
 # RTLnBitMultiplier
 Parameterised (8-bit ready) Multiplier with 1-Cycle Shift+Add SystemVerilog RTL Design
 
-__For full documentation - system design, experiments & findings please read [QLearningDynamicProgrammingDoc Report](/docs/RTLnBitMultiplierDoc.pdf)__
+__For full documentation - system design, experiments & findings please read [RTLnBitMultiplierDoc Report](/docs/RTLnBitMultiplierDoc.pdf)__
 
 __[GutHub Pages Format](https://samyueldanyo.github.io/rtl-n-bit-multiplier/)__
 
